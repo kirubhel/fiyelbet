@@ -2,7 +2,6 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    // Enable image optimization on Vercel
     unoptimized: false,
   },
 }
