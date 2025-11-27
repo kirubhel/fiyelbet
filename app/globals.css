@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: 'Georgia', 'Times New Roman', serif;
+}
+
+@layer base {
+  body {
+    @apply bg-straw text-charcoal;
+  }
+}
+
+@layer utilities {
+  .text-brand {
+    font-family: var(--font-display);
+    font-weight: 900;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  
+  .text-stamped {
+    text-shadow: 
+      2px 2px 0px rgba(0, 0, 0, 0.3),
+      1px 1px 0px rgba(0, 0, 0, 0.2);
+  }
+}
+
