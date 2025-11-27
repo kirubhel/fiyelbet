@@ -18,7 +18,7 @@ export default function Home() {
           <div className="flex items-center gap-4">
             <Logo size={80} className="transition-all duration-500" />
             <h1 className="text-brand text-4xl md:text-5xl text-charcoal text-stamped">
-              Fiyel Bet
+              ፍየል ቤት
             </h1>
           </div>
           <div className="hidden md:flex gap-6 text-lg font-bold">
@@ -37,7 +37,7 @@ export default function Home() {
               ፍየል ቤት
             </h2>
             <h3 className="text-brand text-4xl md:text-6xl text-terracotta text-stamped">
-              GOAT HOUSE
+              Fiyel Bet
             </h3>
             <p className="text-xl md:text-2xl text-charcoal-light font-semibold max-w-2xl">
               Sizzling. Fresh. Authentic.
