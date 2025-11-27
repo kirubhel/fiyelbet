@@ -16,7 +16,7 @@ const Logo: React.FC<LogoProps> = ({ size = 200, className = '' }) => {
     >
       <Image
         src="/logo/logo.png"
-        alt="Fiyel Bet Logo - Goat House"
+        alt="Fiyel Bet Logo - Fiyel Bet"
         width={size}
         height={size}
         className="drop-shadow-2xl object-contain"

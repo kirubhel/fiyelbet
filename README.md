@@ -1,4 +1,4 @@
-# Fiyel Bet - Goat House
+# Fiyel Bet - Fiyel Bet
 
 A modern Next.js frontend for Fiyel Bet, an authentic Ethiopian restaurant specializing in grilled goat meat (Tibs).
 
